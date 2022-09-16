@@ -1,0 +1,12 @@
+/* SELECT title , length FROM film 
+WHERE title LIKE '%n' ORDER BY length DESC
+*/
+/* SELECT * FROM film
+WHERE title LIKE '%n' ORDER BY length DESC
+limit 5 
+offset 5 OBJECT
+*/
+/* SELECT store_id , last_name FROM customer
+WHERE store_id = 1 ORDER BY last_Name ASC
+limit 4
+*/
